@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foor-cart/static/css/main.bb4ef234.css",
+    "main.js": "/foor-cart/static/js/main.19506c6b.js",
+    "index.html": "/foor-cart/index.html",
+    "main.bb4ef234.css.map": "/foor-cart/static/css/main.bb4ef234.css.map",
+    "main.19506c6b.js.map": "/foor-cart/static/js/main.19506c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb4ef234.css",
+    "static/js/main.19506c6b.js"
+  ]
+}
