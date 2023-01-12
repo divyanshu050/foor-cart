@@ -17,7 +17,7 @@ const Cards = () => {
 
   return (
     <div className="container mt-3">
-      <h2 className='text-center' style={{ color: "orange", fontSize: "50px" }}>Geekster Food Menu</h2>
+      <h2 className='text-center' style={{ color: "orange", fontSize: "50px" }}> Food Cart</h2>
       <div className="wholeCard row d-flex justify-content-center align-items-center">
         {
           data.map((ele, id) => {

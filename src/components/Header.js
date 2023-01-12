@@ -58,9 +58,9 @@ const Header = () => {
             <Navbar bg="dark" variant="dark" style={{ height: "70px" }}>
                 <Container>
                     <NavLink to="/" className="text-decoration-none text-light">Add to Cart</NavLink>
-                    <Nav className="me-auto">
+                    {/* <Nav className="me-auto">
                         <NavLink to="/cart" className="text-decoration-none text-light mx-4">Home</NavLink>
-                    </Nav>
+                    </Nav> */}
                     <Badge badgeContent={getData.length} color="primary"
                         id="demo-positioned-button"
                         aria-controls={open ? 'demo-positioned-menu' : undefined}
